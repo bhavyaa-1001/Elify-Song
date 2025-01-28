@@ -70,3 +70,18 @@ body{
 .footer a{
     color: grey;
 }
+
+.right{
+    margin: 16px 0px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header > *{
+    padding: 20px;
+
+}
